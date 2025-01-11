@@ -1,0 +1,23 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+    background-color: blanchedalmond;
+    width: 38%;
+    border: 2px solid brown;
+    padding: 5px;
+}
+.item {
+    margin: 10px 0 0 0;
+    padding: 3px;
+    height: 40px;
+    width: 500px;
+    background-color: blanchedalmond;
+    border: 2px solid brown;
+}
+
+h1 {
+    border-bottom: 2px solid brown;
+    width: 38%;
+}
